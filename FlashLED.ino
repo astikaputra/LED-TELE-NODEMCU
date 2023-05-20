@@ -25,9 +25,9 @@
 
 // Wifi network station credentials
 #define WIFI_SSID "WIRASA_WIFI"
-#define WIFI_PASSWORD "W1r4545758"
+#define WIFI_PASSWORD ""
 // Telegram BOT Token (Get from Botfather)
-#define BOT_TOKEN "6189516900:AAHwObM8FQgg0k5v983ALKH-ok4jtB_m1tA"
+#define BOT_TOKEN ""
 
 const unsigned long BOT_MTBS = 1000; // mean time between scan messages
 
